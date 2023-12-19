@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hey, what's up? ☕
 
-<!--
-**LucasJFelippo/LucasJFelippo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Frist of all, take a seat and have some coffee.
 
-Here are some ideas to get you started:
+## Let me introduce myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm Lucas, a computer engineering student from Brazil. I love random projects and coding adventures, some of then you can see in my repositories.
+
+  Currently I'm looking for some project.
+
+## Technologies
+
+<div style="display: inline_block">
+
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffc331" />
+
+<img alt="HTML" src="https://img.shields.io/badge/html5-f16529?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="JS" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=f7e018" />
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/css3-006bc0?style=for-the-badge&logo=css3&logoColor=white" />  
+<img alt="React" src="https://img.shields.io/badge/react-1e2229?style=for-the-badge&logo=react&logoColor=149eca" />
+<img alt="Flask" src="https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" />
+<img alt="Laravel" src="https://img.shields.io/badge/laravel-121c2c?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+
+<img alt="C" src="https://img.shields.io/badge/c-004283?style=for-the-badge&logo=c&logoColor=white" />
+
+<img alt="PHP" src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=black" />
+
+<img alt="Qt" src="https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=Qt&logoColor=40CD52" />
+
+<img alt="Figma" src="https://img.shields.io/badge/figma-162134?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=30a8ff" />
+
+### Learning
+
+<img alt="Unity" src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=black" />
+
+</div>
