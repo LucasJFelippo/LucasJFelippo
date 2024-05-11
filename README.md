@@ -8,6 +8,14 @@
 
   Currently I'm looking for some project.
 
+### Github Stats
+
+<div align="left">
+  <a href="https://github.com/DatDarkAlpaca">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasJFelippo&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJFelippo&layout=compact&langs_count=7&theme=aura_dark"/>
+</div>
+
 ## Technologies
 
 <div style="display: inline_block">
