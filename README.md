@@ -13,7 +13,7 @@
 <div align="left">
   <a href="https://github.com/LucasJFelippo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasJFelippo&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJFelippo&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJFelippo&layout=compact&langs_count=7&theme=aura_dark&hide_progress=true"/>
 </div>
 
 ## Technologies
@@ -25,18 +25,22 @@
 <img alt="HTML" src="https://img.shields.io/badge/html5-f16529?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="JS" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=f7e018" />
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/css3-006bc0?style=for-the-badge&logo=css3&logoColor=white" />  
+<img alt="CSS3" src="https://img.shields.io/badge/css3-006bc0?style=for-the-badge&logo=css&logoColor=white" />  
 <img alt="React" src="https://img.shields.io/badge/react-1e2229?style=for-the-badge&logo=react&logoColor=149eca" />
+<img alt="Vue" src="https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs&logoColor=42b883" />
 <img alt="Flask" src="https://img.shields.io/badge/flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" />
 <img alt="Laravel" src="https://img.shields.io/badge/laravel-121c2c?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
 
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql" />
 
 <img alt="C" src="https://img.shields.io/badge/c-004283?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C#" src="https://img.shields.io/badge/c%23-682876?style=for-the-badge&logo=sharp&logoColor=white" />
 
 <img alt="PHP" src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=black" />
 
 <img alt="Qt" src="https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=Qt&logoColor=40CD52" />
+
+<img alt="VHDL" src="https://img.shields.io/badge/VHDL-046307?style=for-the-badge&logo=forgejo&logoColor=black" />
 
 <img alt="Figma" src="https://img.shields.io/badge/figma-162134?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-001e36?style=for-the-badge&logo=adobephotoshop&logoColor=30a8ff" />
